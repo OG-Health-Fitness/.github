@@ -1,4 +1,9 @@
-# Checkout our [website](https://oliviagallucci.com/og-health-fitness/)! 
+# OG Health & Fitness – Data Driven Fitness for Busy People
+
+Welcome to **OG Health & Fitness**’ GitHub! This is where we blend **fitness, technology, and community** to empower busy people to **optimize their health and performance**.
+
+**[Visit Our Website](https://oliviagallucci.com/og-health-fitness/)** to learn about our personalized training, nutrition plans, and corporate wellness programs.
+
 
 
 <!--
