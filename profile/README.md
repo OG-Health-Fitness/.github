@@ -19,6 +19,20 @@ OG Health & Fitness isn't your average gym program – we're about smart fitness
 - **Santa Clara Valley, CA** – May-August 2024
 - **Zagreb, Croatia** – August-December 2024
 
+
+## What You'll Find Here  
+
+### Tools and Resources for Performance Optimization
+
+This GitHub is home to tech that powers and supports our services:
+
+- **Fitness Tracking Apps** – Smart tools to monitor your progress
+- **APIs for Personalized Plans** – Workout and nutrition recommendations tailored for busy schedules  
+- **Automation Tools** – Scheduling and client engagement systems  
+- **Data Science Projects** – Analytics-driven insights into performance trends  
+- **Corporate Wellness Tools** – Programs to drive productivity and employee well-being  
+
+
 <!--
 
 **Here are some ideas to get you started:**
