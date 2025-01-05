@@ -4,7 +4,20 @@ Welcome to OG Health & Fitness’ GitHub! This is where we blend **fitness, tech
 
 Visit our **[website](https://oliviagallucci.com/og-health-fitness/)** to learn about our personalized training, nutrition plans, and corporate wellness programs.
 
+## Who We Are
 
+OG Health & Fitness isn't your average gym program – we're about smart fitness that fits your life, your goals, and your schedule.
+
+-  **Data-driven personal training** for measurable progress
+-  **Comprehensive nutrition** plans designed for optimal performance (Coming Soon – Late 2025!)
+-  **Group classes** that build community and elevate your routine
+-  **Global access** with in-person and online services
+
+### Locations
+- **Online** – Available everywhere!
+- **Rochester, NY** – January-May 2025
+- **Santa Clara Valley, CA** – May-August 2024
+- **Zagreb, Croatia** – August-December 2024
 
 <!--
 
