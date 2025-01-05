@@ -42,6 +42,13 @@ Our philosophy is simple:
 -  **Data-Driven** – Tailored plans that evolve as you do  
 -  **Community & Accountability** – Fitness thrives with support  
 
+## Get Involved
+
+Do you enjoy health, wellness, fitness, and tech? We'd love for you to collaborate with us!
+
+- **Contribute** – Submit code, build new tools, or suggest ideas
+- **Join Campaigns** – Support initiatives like [**Miles for Mac Security**](https://oliviagallucci.com/miles-for-mac-security-supporting-foss-and-aspiring-hackers/) to help fund student health and wellness.
+- **Follow Us** – Stay inspired and connected on [Instagram](https://www.instagram.com/oghealthfitness/), [TikTok](https://www.tiktok.com/@oghealthfitness), [LinkedIn](https://www.linkedin.com/company/oghealthfitness/), [YouTube](https://www.youtube.com/@OGHealthAndFitness) and [X](https://x.com/oghealthfitness) 
 
 <!--
 
