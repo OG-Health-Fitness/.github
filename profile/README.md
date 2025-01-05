@@ -50,6 +50,20 @@ Do you enjoy health, wellness, fitness, and tech? We'd love for you to collabora
 - **Join Campaigns** – Support initiatives like [**Miles for Mac Security**](https://oliviagallucci.com/miles-for-mac-security-supporting-foss-and-aspiring-hackers/) to help fund student health and wellness.
 - **Follow Us** – Stay inspired and connected on [Instagram](https://www.instagram.com/oghealthfitness/), [TikTok](https://www.tiktok.com/@oghealthfitness), [LinkedIn](https://www.linkedin.com/company/oghealthfitness/), [YouTube](https://www.youtube.com/@OGHealthAndFitness) and [X](https://x.com/oghealthfitness) 
 
+## Why OG Health & Fitness?  
+
+Life’s busy – but **your health doesn’t need to take a back seat.** We build fitness programs and tech that:  
+
+- Integrate with your schedule
+- Keep you accountable  
+- Drive measurable results
+- Create sustainable habits
+
+Ready to train smarter, not harder?  
+👉 **[Book a Free Consultation](https://zcal.co/oliviagallucci/training)**  
+
+
+
 <!--
 
 **Here are some ideas to get you started:**
